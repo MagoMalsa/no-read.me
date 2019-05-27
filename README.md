@@ -29,4 +29,4 @@ Via __the terminal__:
 - React.js
 - ...
 
-[Agenda](https://raw.githubusercontent.com/MagoMalsa/no-read.me/master/agenda.md)
+[Agenda](https://github.com/MagoMalsa/no-read.me/blob/master/agenda.md)
